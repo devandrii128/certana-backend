@@ -24,7 +24,7 @@ const inMemoryData = {
     {
       id: 1,
       username: 'admin',
-      password: '$2a$10$xVqYAhKj9BI.J5e9ShH1/.Ry.9nRlQFQ2gl.mK7vQAuNnPNpxY3uy', // admin123
+      password: '$2a$12$JPG4/1zF.cU4DY/9yDuRUuoo/PUyCMhreQOR9pXl24m8JW/u3xwBG', // admin123
       role: 'company',
       createdAt: new Date(),
       updatedAt: new Date(),
@@ -32,7 +32,7 @@ const inMemoryData = {
     {
       id: 2,
       username: 'electrician',
-      password: '$2a$10$bFB9Tz.mrJMRxIxbBHEC3e642nRCHEBzR.q.YT.JhErFLNGDwb1KC', // elect123
+      password: '$2a$12$fbYJ5bm2VcacihT1ust9OeYQjZ58.LLj6iYvXHIifpocTgN5AF43a', // elect123
       role: 'electrician',
       createdAt: new Date(),
       updatedAt: new Date(),
