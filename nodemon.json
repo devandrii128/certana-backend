@@ -1,6 +1,6 @@
 {
   "watch": ["src", ".env"],
   "ext": "ts",
-  "exec": "tsx -r tsconfig-paths/register src/app.ts",
+  "exec": "tsx -r tsconfig-paths/register src/server.ts",
   "legacyWatch": true
 }
